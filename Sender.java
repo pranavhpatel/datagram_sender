@@ -29,7 +29,6 @@ import javax.swing.JTextArea;
 /**
  * 
  * @author Pranav Patel and Duncan Wilson
- * @ID 150380910 and 150322290
  * @Purpose Sender class for Assignment 2
  *
  */
